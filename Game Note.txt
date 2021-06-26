@@ -1,0 +1,35 @@
+Dungeon Escape
+
+Goal - 
+The main player would have to escape the dungeon while being hunted by 5 other players, there would be several traps and puzzles along the way. 
+
+Rules - 
+The 5 hunters would have infinite lives
+The player would have only have one life
+The player if caught once and killed will be eliminated
+
+The player would only be able to hold 3 things at a time
+The hunters would have half of the players total health
+The hunters can choose a kit from the beginning
+
+The player will only win if he/she exits the dungeon
+The game would last till the player has won or been caught
+There will be safe zones for the player which would heal the player too
+
+There would be several rooms with different types of puzzles or treasures in them
+The player and hunters would have a fixed sight 
+The player can kill the hunters using weapons
+
+A weapon can only be used once 
+A player can get a shield which would block all hunters attack for a particular amount of time.
+Hunters can trap players
+
+In one room there can only be 3 hunters
+The player has to defeat a boss to get a key to play the final puzzle
+Killing the boss would also freeze the hunters for 5 seconds
+
+The bosses health would increase or decrease depending on the difficulty
+
+
+
+
